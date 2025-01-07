@@ -27,11 +27,31 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraFluids",
+			"Name": "MotionTrajectory",
 			"Enabled": true
 		},
 		{
-			"Name": "MultiUserClient",
+			"Name": "PoseSearch",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "Chooser",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
 	]

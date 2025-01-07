@@ -27,9 +27,32 @@
 			"Enabled": true
 		},
 		{
-			"Name": "InteractionSystemPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/e842c2ad479c42b29a6f57353fca3498"
+			"Name": "MotionTrajectory",
+			"Enabled": true
+		},
+		{
+			"Name": "PoseSearch",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "Chooser",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
